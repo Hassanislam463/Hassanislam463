@@ -2,11 +2,10 @@
 
 ## 💼 Skills
 
-- **Data Analysis/Visualization:** Pandas 🐼, NumPy 🔢, Matplotlib 📊, Seaborn 🌊
-- **Machine Learning:** Scikit-learn 🧠, TensorFlow ⚙️, Keras 💡
-- **Big Data Technologies:** Spark ⚡, Hadoop 🐘, Hive 🐝
-- **Database Management:** MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃
-- **Software Engineering:** Git 🐙, Docker 🐳, Flask 🌶️, Django 🎸
+- Exploratory Data Analysis (EDA), Data Wrangling & Visualization, Data Mining, Data & Trend Analysis.   
+- Machine Learning
+- Deep Learning
+- Data Visulization and Analysis | Power BI, Tableau, Python, R, SQL.
 
 ### 🧰 Languages and Tools
 
