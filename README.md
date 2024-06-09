@@ -8,9 +8,15 @@
 - **Database Management:** MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃
 - **Software Engineering:** Git 🐙, Docker 🐳, Flask 🌶️, Django 🎸
 
-### Contact Information
+### 📞 Contact
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com) &nbsp; &nbsp; <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 - 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) &nbsp; &nbsp; <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle) &nbsp; &nbsp; <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 - 💼 GitHub: [Your GitHub Profile](https://github.com/yourusername) &nbsp; &nbsp; <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile) &nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterhandle) &nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yourusername)
