@@ -1,12 +1,12 @@
 # :bouncing_ball_person: Hassan Islam
 
-Hi there! I'm a passionate data scientist and software engineer based in London. With a solid foundation in software engineering from my bachelor's degree and a recent completion of my master's in data science, I bring a unique blend of technical expertise and analytical skills to the table.
+👋 Hi there! I'm a passionate data scientist and software engineer based in London. With a solid foundation in software engineering from my bachelor's degree and a recent completion of my master's in data science, I bring a unique blend of technical expertise and analytical skills to the table.
 My professional journey has been centered around data science, data visualization, and analysis, with a focus on projects within the finance and medical domains. 
 I'm particularly enthusiastic about using data to drive informed decision-making and solve real-world problems. Whether it's uncovering patterns in financial data or optimizing medical processes, I thrive on the challenge of turning data into actionable insights.
 
-Currently, I'm seeking opportunities to further enhance my skills and contribute to innovative projects within an organization. I'm eager to collaborate with like-minded professionals and continue my growth journey in the dynamic field of data science.
+🔍 Currently, I'm seeking opportunities to further enhance my skills and contribute to innovative projects within an organization. I'm eager to collaborate with like-minded professionals and continue my growth journey in the dynamic field of data science.
 
-Outside of work, you can find me exploring the vibrant culture of London, indulging in my love for photography, or diving into a good book.
+🌆 Outside of work, you can find me exploring the vibrant culture of London, indulging in my love for photography 📸, or diving into a good book 📚.
 
 ## 💼 Skills
 
