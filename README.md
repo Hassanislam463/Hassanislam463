@@ -7,9 +7,9 @@
 - Deep Learning
 - Data Visulization and Analysis | Power BI, Tableau, Python, R, SQL.
 
-#
 
-### 🧰 Languages and Tools
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -26,7 +26,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <br />
 
-#
+
 
 ## 📞 Contact
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:hassanislam463@gmail.com>) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-islam463/)
